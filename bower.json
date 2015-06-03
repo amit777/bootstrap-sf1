@@ -19,6 +19,6 @@
     "index.html"
   ],
   "devDependencies": {
-    "bootstrap": "3.2.0"
+    "bootstrap": "3.3.4"
   }
 }
